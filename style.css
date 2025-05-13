@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@100..700&family=Share+Tech+Mono&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
-body｛
+body {
     font-family: "Titillium Web", "M PLUS 1 Code", sans-serif;
     color: #e974a3;
-｝
+}
 code {
       font-family: "Share Tech Mono", "M PLUS 1 Code", monospace;
       background-color: #31363b;
